@@ -1,11 +1,13 @@
 package main
 
 import "fmt"
+
 func main() {
-	// hola mundo GO 
+	// hola mundo GO
 	fmt.Println("hola mundo GO de Nacho OFC")
 
-	// VARIABLES 
+	// VARIABLES
 	var nombre string = "Nacho"
-	fmt.Println("Hola, mi nombre es", nombre)	
+	var edad int = 23
+	fmt.Println("Hola, mi nombre es", nombre, "y tengo", edad, "años")
 }
