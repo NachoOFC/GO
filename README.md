@@ -17,7 +17,8 @@ es concurrente (permite ejecutar varias tareas al mismo tiempo)
 - ¿Cuál es más fácil de aprender? Interpretado, casi siempre. Podés probar una línea suelta al instante, no hay paso de compilación, y los errores son más claros. Compilado agrega fricción (compilar antes de correr), aunque hoy Go la minimiza con go run que hace todo en un paso. Igual, la lógica que aprendés (variables, loops, funciones) es idéntica en ambos; lo difícil es el lenguaje, no el modelo.
 
 
-
 estos fundamentos me serviran como base 
 y su concurrencia: permite ejecutar miles de tareas de manera simultánea, consumir muy poca memoria y simplificar la comunicación segura entre procesos sin depender de hilos pesados del sistema operativo
 lo cual ayudara en proyectos futuros
+
+Apunte seguir viendo si usar go con rest o con graph
